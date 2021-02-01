@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e747b55f-19b1-4033-8061-8d05d4a3abc9" name="Default Changelist" comment="" />
+    <list default="true" id="e747b55f-19b1-4033-8061-8d05d4a3abc9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/base/_media.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/base/_media.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_consultation.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_consultation.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_promo.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_promo.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.sass" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nqM32CECj0iqUcv5J2Yfyb6Ict" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,11 +54,25 @@
       <option name="presentableId" value="Default" />
       <updated>1612112966928</updated>
       <workItem from="1612112974803" duration="21598000" />
-      <workItem from="1612182654719" duration="1334000" />
+      <workItem from="1612182654719" duration="1635000" />
+      <workItem from="1612199124336" duration="3935000" />
+      <workItem from="1612215865235" duration="3613000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
